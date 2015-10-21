@@ -1,0 +1,22 @@
+/* responsive */
+@media (max-width: 769px){
+	
+}
+@media (min-width: 768px){
+	#header{
+		.navbar-brand {
+	    	padding-top:53px;
+	    	padding-left: 90px;
+		}
+		.nav.navbar-nav{
+			margin-top:55px;
+			margin-right: 49px
+		}
+
+		.nav.navbar-nav a {
+			margin-left: 6px;
+		    padding: 5px 16px;
+		    min-height: inherit !important;
+		}
+	}	
+}

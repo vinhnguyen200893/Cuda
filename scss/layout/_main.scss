@@ -1,0 +1,31 @@
+/* main */
+#main{
+	margin: 0;
+	.welcome{
+		min-height: 486px;
+		text-align: center;
+		h1{
+			margin-top: 0;
+			padding-top: 106px;
+			margin-bottom: 72px;
+			color: #fff;
+		}
+	}
+	.services{
+		text-align: center;
+		color: #fff;
+		min-height: 701px;
+		h1{
+			margin-bottom: 32px;	
+		}
+		p{
+			margin: 0 auto;
+			max-width: 565px;
+		}
+		header{
+			margin-top: 66px;
+			margin-bottom: 79px;
+		}
+	}	
+}
+

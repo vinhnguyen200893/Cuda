@@ -1,0 +1,12 @@
+#wrapper .container,
+#nav ul{max-width:994px;}
+.info-section{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#cc3e568c',GradientType=0 );}
+.info-section.gameplay{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#cc584a86',GradientType=0 );}
+.info-section.about{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#bf1f2b46',GradientType=0 );}
+.info-section h1 span:after{background:#000;}
+.info-container{max-width:860px;}
+span[data-src] img{
+	width:auto;
+	height:auto;
+}
+.img-holder span[data-src] img, .info-container span[data-src] img{width:100%;}

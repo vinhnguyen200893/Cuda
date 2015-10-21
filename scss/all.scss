@@ -1,0 +1,16 @@
+// Mixins and Settings Sass Files
+@import 'partials/settings';
+@import 'partials/mixins';
+
+// Core Setup Sass Files
+@import 'core/font';
+@import 'core/normalize';
+@import 'core/global';
+
+// Layout Sass Files
+@import 'layout/header';
+@import 'layout/main';
+@import 'layout/footer';
+
+// Responsive Sass Files
+@import 'responsive/responsive';

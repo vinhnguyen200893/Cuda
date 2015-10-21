@@ -1,0 +1,58 @@
+/* Gblobal */
+
+html {font-size: 62.5%;}
+
+.container-fluid{
+	padding:0;
+}
+
+body{
+	font-size:1.6rem;
+	@include font-default();
+	//background: url('../images/Cuda-Single-Page-Portfolio.png');
+	height: 5771px;
+}
+
+#header, .welcome{
+	
+	background-color: #87509c;
+}
+
+
+.services{
+	background-color: #17c2a4;
+}
+
+
+h1{
+	font-size:4.0rem;
+	font-weight: 700;
+}
+
+h2{
+	font-size:2.6rem;
+	font-weight: 700;
+}
+
+h3{
+	font-size:2.4rem;
+	font-weight: 700;
+}
+
+a.button, a.button:hover{
+	font-weight: 600;
+	border-radius: 4px;
+	color:#fff;	
+	padding: 20px 77px;
+	line-height: 1.455;
+	transform: scale(1.258,1.258);
+	-moz-transform: matrix( 1.25806680689103,0,0,1.25812736482268,0,0);
+  	-webkit-transform: matrix( 1.25806680689103,0,0,1.25812736482268,0,0);
+  	-ms-transform: matrix( 1.25806680689103,0,0,1.25812736482268,0,0);
+  	text-decoration:none;
+  	border-bottom: 5px solid rgba(black, 0.15);
+}
+
+.organe{
+	background-color: #eb7d4b;
+}
